@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExamTopPhonesApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Top Phones</string>
+    <string name="nav_header_subtitle">by Nadwe Fabião</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_huawei">Huawei</string>
+    <string name="menu_samsung">Samsung</string>
+    <string name="menu_iphone">Iphone</string>
+</resources>

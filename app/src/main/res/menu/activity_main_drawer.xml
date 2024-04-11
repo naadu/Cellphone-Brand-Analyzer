@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/baseline_house_24"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/baseline_directions_car_24"
+            android:title="@string/menu_huawei" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/baseline_local_car_wash_24"
+            android:title="@string/menu_samsung" />
+        <item
+            android:id="@+id/nav_iphone"
+            android:icon="@drawable/baseline_directions_bus_24"
+            android:title="@string/menu_iphone" />
+    </group>
+</menu>
